@@ -1,2 +1,2 @@
-# trs-web
-Source files for TRS homepage overhaul
+# TRS Web
+Please do not share or distribute. This is solely for back-up purposes.
