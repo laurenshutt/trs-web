@@ -1,2 +1,2 @@
 # TRS Web
-Please do not share or distribute. This is solely for back-up purposes.
+Solely for backup and not distribution. If distribution is required please email hello@laurenshutt.dev for code.
